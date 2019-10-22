@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkApp", "NetworkApp\NetworkApp.csproj", "{3421B4AB-126B-4BE8-A4BE-9F91EDD6E4FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3421B4AB-126B-4BE8-A4BE-9F91EDD6E4FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3421B4AB-126B-4BE8-A4BE-9F91EDD6E4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3421B4AB-126B-4BE8-A4BE-9F91EDD6E4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3421B4AB-126B-4BE8-A4BE-9F91EDD6E4FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A854663-7B7A-4FE7-8E2F-4D248663A22A}
+	EndGlobalSection
+EndGlobal
